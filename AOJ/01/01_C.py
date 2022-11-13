@@ -1,3 +1,2 @@
-ab = "5 6"
-a,b = map(int,ab.split())
+a,b = map(int,input().split())
 print(a*b,a*2+b*2)

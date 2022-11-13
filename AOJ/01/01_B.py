@@ -1,2 +1,2 @@
-x = int(3)
+x = int(input())
 print(x**3)
